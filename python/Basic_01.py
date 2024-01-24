@@ -1,4 +1,4 @@
-print("Hello World") # Hellow World 출력
+print("Hello World") # Hello World 출력
 
 Iphone = 1000000 # 변수 값 정의
 Sphone = 500000 # 변수 값 정의
